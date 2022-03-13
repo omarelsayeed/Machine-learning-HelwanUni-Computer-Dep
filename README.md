@@ -21,11 +21,15 @@
 [![eslam][eslam]][eslam-url]
 <br/>
 [![omar][omar]][omar-url]
+<br/>
+[![omar][jimmy]][jimmy-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [eslam]: https://img.shields.io/badge/Contributor-Eslam%20Mohamed-blue
 [eslam-url]: https://github.com/xS4yk0x
 [omar]: https://img.shields.io/badge/Contributor-Omar%20El--Sayed-blue
 [omar-url]: https://github.com/anzhir2011
+[jimmy]: https://img.shields.io/badge/Contributor-Ahmed%20Gamal-blue
+[jimmy-url]: https://github.com/GReeDYBOY1
 [contributors-shield]: https://img.shields.io/github/contributors/anzhir2011/ml-utils.svg?style=for-the-badge
 [contributors-url]: https://github.com/anzhir2011/ml-utils/graphs/contributors
