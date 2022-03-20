@@ -23,6 +23,12 @@
 [![omar][omar]][omar-url]
 <br/>
 [![omar][jimmy]][jimmy-url]
+<br/>
+[![omar][noura]][Noura-url]
+<br/>
+[![omar][rania]][rania-url]
+<br/>
+[![omar][moamen]][moamen-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [eslam]: https://img.shields.io/badge/Contributor-Eslam%20Mohamed-blue
@@ -31,5 +37,11 @@
 [omar-url]: https://github.com/anzhir2011
 [jimmy]: https://img.shields.io/badge/Contributor-Ahmed%20Gamal-blue
 [jimmy-url]: https://github.com/GReeDYBOY1
+[noura]: https://img.shields.io/badge/Contributor-Noura%20Medhat-blue
+[noura-url]: https://github.com/NouraMedhat28
+[rania]: https://img.shields.io/badge/Contributor-Rania%20Mustafa-blue
+[rania-url]: https://github.com/RanianMustafa17
+[moamen]: https://img.shields.io/badge/Contributor-Moamen%20Nssar-blue
+[moamen-url]: https://github.com/moamen20
 [contributors-shield]: https://img.shields.io/github/contributors/anzhir2011/ml-utils.svg?style=for-the-badge
 [contributors-url]: https://github.com/anzhir2011/ml-utils/graphs/contributors
