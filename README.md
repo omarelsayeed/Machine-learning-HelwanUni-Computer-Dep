@@ -1,10 +1,12 @@
-# Machine Learning , 3rd Computer ,  Helwan University 
+### Machine Learning , 3rd Computer ,  Helwan University 
 
-## Description 
+##### Description 
+
 - We Are a study group that aimed to hand a well documented sample codes to accompany the machine learning course and to help new batches accelerate there learning.
+
 -  الهدف ان الدفعات الجديدة يكون ليها مكان فيه كل الاكواد اللي هيحتاجوها كبداية مع الشرح
 
-Technologies We Used : 
+###### Technologies We Used : 
 
  1. Sklearn 
   
@@ -23,8 +25,11 @@ Technologies We Used :
 <p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
  Models Currently available : 
- 1. Machine Learning Models : Decision Trees , KNN , Logistic Regression , Random Forest , Naive Bayes , Svm , Linear Regression
+ 
+ 1. Machine Learning Models : Decision Trees , KNN , Logistic Regression , Random Forest , Naive Bayes , Svm , Linear Regression , Kmeans , PCA , HDBScan.
+ 
  2. Deep Learning Models : ANN , CNN , RNN , LSTMS , GANS 
+ 
  3. RL Agents : Q-learning , Sarsa
 
 #### How To Use :
@@ -79,7 +84,8 @@ It would be very nice to star & follow the people who worked on these notebooks 
 
 
 - This repository is not related to our university , but it's our team effort to help others.
-- Special thanks to sara saeed for her very clear explanation and time spent on these notebooks.
+
+- Special thanks to sarah saeed for her very clear explanation and time spent on these notebooks.
 
 
 
